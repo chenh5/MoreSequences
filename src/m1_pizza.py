@@ -103,7 +103,7 @@ def generate_points_on_circle(circle_for_points,
 
     # ------------------------------------------------------------------
     # Each point is   delta_degrees   from the previous point,
-    # along the circumference of the given circle.
+    # along the circumference of the given circle
     # ------------------------------------------------------------------
     delta_degrees = 360 / number_of_points_to_generate
 
